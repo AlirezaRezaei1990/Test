@@ -1,6 +1,6 @@
 #Constants Variables
 #@
-gc = -10.0e-8        #A value for variables to be calculated
+gc = -10.0e-3       #A value for variables to be calculated
 gcompany = '"OTCE"'  #The name of design company
 gdesigner = '"A&N"'  #The name of desigener(s)
 gMaxGen = 10         #ga generation size
